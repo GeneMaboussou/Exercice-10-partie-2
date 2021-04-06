@@ -1,0 +1,62 @@
+
+/*Exercice 10*/
+
+#green{
+    width: 800px;
+    height: 50px;
+    background-color: #2ecc71;
+}
+#lightblue{
+    margin-top: -50px;
+    width: 200px;
+    margin-left: 800px;
+    height: 50px;
+    background-color: #2980b9;
+}
+#red{
+    width: 300px;
+    height: 150px;
+    background-color: #e74c3c;
+}
+#lightorange{
+    width: 350px;
+    margin-left: 300px;
+    margin-right: 350px;
+    height: 75px;
+    margin-top: -150px;
+    background-color: #e67e22;
+}
+#grey{
+    width: 350px;
+    margin-left: 650px;
+    height: 75px;
+    margin-top: -75px;
+    background-color: #95a5a6;
+}
+#yellow{
+    width: 225px;
+    height: 75px;
+    margin-left: 300px;
+    margin-top: 0px;
+    background-color: #f39c12;
+}
+#lightgreen{
+    width: 225px;
+    height: 75px;
+    margin-left: 525px;
+    margin-top: -75px;
+    background-color:#16a085;
+}
+#darkorange{
+    width: 250px;
+    height: 75px;
+    margin-left: 750px;
+    margin-top: -75px;
+    background-color: #d35400;
+}
+#Navyblue{
+    width: 1000px;
+    height: 200px;
+    background-color: #2c3e50;
+}
+    
